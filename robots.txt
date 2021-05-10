@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://faithbound.gg/sitemap.xml
+Host: https://faithbound.gg
